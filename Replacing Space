@@ -1,0 +1,11 @@
+# Asking user for the input
+
+user_input = input("Enter a String: ")
+
+# Altering Text
+
+altered_text = user_input.replace(' ' , '...')
+
+# Print Output
+
+print("Altered Text: " , altered_text
