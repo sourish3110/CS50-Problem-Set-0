@@ -1,0 +1,11 @@
+# Asking user for the input
+
+user_input = input("Enter a String: ")
+
+# Convert the Input into Lowercase
+
+lowercase_input = user_input.lower()
+
+# Print Output
+
+print("Lowercase Output: " , lowercase_input)
